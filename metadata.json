@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Prayer AI",
+  "description": "A comprehensive Islamic companion app featuring Quran, Hadith, Prayer Times, Qibla direction, and an AI-powered spiritual assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
